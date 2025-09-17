@@ -6,10 +6,17 @@
     <description>Recent content in Posts on ponteiro void</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 16 Sep 2025 14:00:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 12:37:23 -0300</lastBuildDate>
     <atom:link href="https://VitorDie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>16/09/2025 -- Inicio da joranda certificação HTB CPTS</title>
+      <title>17/09/2025 - Poeira de Silício</title>
+      <link>https://VitorDie.github.io/posts/17-09-2025/</link>
+      <pubDate>Wed, 17 Sep 2025 12:37:23 -0300</pubDate>
+      <guid>https://VitorDie.github.io/posts/17-09-2025/</guid>
+      <description>&lt;p&gt;Mesmo depois de um dia produtivo, a sensação de insuficiência não me abandona. Hoje, fiz duas máquinas no Vulnyx e um módulo inteiro da preparação para o CPTS, mas o sentimento que fica é este: o de que ainda não é o bastante.&lt;/p&gt;&#xA;&lt;p&gt;Muitas coisas me incomodam, mas a principal é uma certa pobreza de espírito que vejo por aí. Uma arrogância que talvez seja só um mecanismo de sobrevivência: gente que finge entender o que não entende, que diz fazer o que não é capaz.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>16/09/2025 - Inicio da joranda certificação HTB CPTS</title>
       <link>https://VitorDie.github.io/posts/16-09-2025/</link>
       <pubDate>Tue, 16 Sep 2025 14:00:10 -0300</pubDate>
       <guid>https://VitorDie.github.io/posts/16-09-2025/</guid>
